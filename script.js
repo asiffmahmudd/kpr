@@ -3,7 +3,7 @@ var obj_csv = {
     dataFile:[]
 };
 		 
-function readImage(input) {
+function readInput(input) {
 	if (input.files && input.files[0]) {
 		let reader = new FileReader();
 		reader.readAsBinaryString(input.files[0]);
