@@ -1,0 +1,12 @@
+1. First I declared an object to read the file
+2. Read the object
+3. parsed the data
+4. Then thought of an algorithm to check the data according to the requirements
+5. Wrote the data into a csv file.
+
+Challenge: The main challenge was thinking about the algorithm and making it efficient. Although the current one is not effiecient enough it can be improved. 
+
+Limitations: 
+	1. It may take excessive time if a large dataset is given. 
+	2. The dataset has to be in the exact structure given to me.
+	3. Letter casing of the names can be a problem in terms of determining the weights.
