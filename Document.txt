@@ -10,3 +10,9 @@ Limitations:
 	1. It may take excessive time if a large dataset is given. 
 	2. The dataset has to be in the exact structure given to me.
 	3. Letter casing of the names can be a problem in terms of determining the weights.
+	
+	
+**************
+You can download the files and run the index.html to see the outputs. A file will be downloaded upon uploading the dataset.
+
+Or you can go to this link and check there: https://asiffmahmudd.github.io/kpr/
